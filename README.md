@@ -26,9 +26,10 @@ The foundation grid works on almost any device and has support for nesting, sour
 ![alt text](grid.png "browser compatible")
 ###Buttons
 Foundation has some lightweight button styles for size, presentation, and color to make customizing your own button as easy as adding a class
-
+![alt text](buttons.png "browser compatible")
 ###Navigation
 Users  have to get around. Navigation styles in Foundation include: a robust top bar with dropdowns; button; search bars; a cool icon bar; a bitchin' off-canvas implementation; and a bunch of other navigational constructs.
-
+![alt text](nav.png "browser compatible")
 ###Plugins
 FOundation has ncluded a ton of JavaScript plugins written just for Foundation: pop-up modals (Reveal); add a required validation for forms (Abide); create content tabs; alerts; and more.
+![alt text](plugins.png "browser compatible")
