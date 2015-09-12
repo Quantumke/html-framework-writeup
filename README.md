@@ -23,8 +23,10 @@ Foundation, amongst all of the responsive front-end frameworks out there, is the
 ##Features of foundation
 ###Grid
 The foundation grid works on almost any device and has support for nesting, source ordering, offsets and device presentation.
+![alt text](grid.png "browser compatible")
 ###Buttons
 Foundation has some lightweight button styles for size, presentation, and color to make customizing your own button as easy as adding a class
+
 ###Navigation
 Users  have to get around. Navigation styles in Foundation include: a robust top bar with dropdowns; button; search bars; a cool icon bar; a bitchin' off-canvas implementation; and a bunch of other navigational constructs.
 
