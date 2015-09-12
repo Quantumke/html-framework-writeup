@@ -11,3 +11,8 @@ Just like there are frameworks for building native app interfaces (like Xcode fo
 ##Foundation is Mobile First
 
 Mobile First is two parts technology and two parts philosophy. Foundation is built in such a way that it encourages a mobile-first approach, designing your site or app for the small device first, then expanding that to include larger displays and more full-featured devices. While it’s not required, building this way in Foundation is relatively simple and introduces really useful constraints in product design. We’ve found it to be a big win in designing effective, ubiquitously available products.
+##What technology is used in Foundation?
+
+Foundation is built with HTML, CSS and Javascript, the core components of the Web. While Foundation is fairly cutting-edge, we use bulletproof technology like jQuery, HTML5 Boilerplate and Normalizr as our baseline. We then layer on top components and plugins designed to work well in all of our supported browsers and devices.
+
+Since Foundation only uses front-end technology, it has no incompatibilities with back-end or server technology and has been used with everything from Wordpress and Drupal to .Net.
