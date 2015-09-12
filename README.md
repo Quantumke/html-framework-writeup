@@ -28,3 +28,5 @@ Foundation has some lightweight button styles for size, presentation, and color 
 ###Navigation
 Users  have to get around. Navigation styles in Foundation include: a robust top bar with dropdowns; button; search bars; a cool icon bar; a bitchin' off-canvas implementation; and a bunch of other navigational constructs.
 
+###Plugins
+FOundation has ncluded a ton of JavaScript plugins written just for Foundation: pop-up modals (Reveal); add a required validation for forms (Abide); create content tabs; alerts; and more.
