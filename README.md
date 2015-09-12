@@ -23,3 +23,5 @@ Foundation, amongst all of the responsive front-end frameworks out there, is the
 ##Features of foundation
 ###Grid
 The foundation grid works on almost any device and has support for nesting, source ordering, offsets and device presentation.
+###Buttons
+Foundation has some lightweight button styles for size, presentation, and color to make customizing your own button as easy as adding a class
