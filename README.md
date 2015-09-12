@@ -17,4 +17,6 @@ Foundation is built with HTML, CSS and Javascript, the core components of the We
 
 Since Foundation only uses front-end technology, it has no incompatibilities with back-end or server technology and has been used with everything from Wordpress and Drupal to .Net.
 ##Why use Foundation? (2)
-Foundation, amongst all of the responsive front-end frameworks out there, is the only framework professionally supported by an organization (ZURB), which also uses the framework every day for clients ranging from small startups to huge enterprises. Foundation has been tried and tested for years. It's gone through five major iterations and many point releases to ensure it works everywhere, and we’ll keep improving it.
+Foundation, amongst all of the responsive front-end frameworks out there, is the only framework professionally supported by an organization (ZURB), which also uses the framework every day for clients ranging from small startups to huge enterprises. Foundation has been tried and tested for years. It's gone through five major iterations and many point releases to ensure it works everywhere, and we’ll keep improving it
+##Browser Comatibility
+![alt text](compatibility.png "browser compatible")
