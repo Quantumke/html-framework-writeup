@@ -16,3 +16,5 @@ Mobile First is two parts technology and two parts philosophy. Foundation is bui
 Foundation is built with HTML, CSS and Javascript, the core components of the Web. While Foundation is fairly cutting-edge, we use bulletproof technology like jQuery, HTML5 Boilerplate and Normalizr as our baseline. We then layer on top components and plugins designed to work well in all of our supported browsers and devices.
 
 Since Foundation only uses front-end technology, it has no incompatibilities with back-end or server technology and has been used with everything from Wordpress and Drupal to .Net.
+##Why use Foundation? (2)
+Foundation, amongst all of the responsive front-end frameworks out there, is the only framework professionally supported by an organization (ZURB), which also uses the framework every day for clients ranging from small startups to huge enterprises. Foundation has been tried and tested for years. It's gone through five major iterations and many point releases to ensure it works everywhere, and we’ll keep improving it.
